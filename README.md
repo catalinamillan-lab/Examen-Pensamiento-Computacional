@@ -59,4 +59,27 @@ Aquí se encuentra todo el trabajo realizado para el examen final de Pensamiento
 
 - Según el estado del juego (inicio, jugando o fin), decide qué debe mostrar en pantalla.
 
-- **
+-**Cómo se transforma**
+- La posición del mouse se transforma en el movimiento de la barra.
+
+- La posición de la pelota cambia continuamente al aumentar su coordenada y.
+
+- Cuando se atrapa la pelota, el puntaje aumenta, la pelota vuelve al inicio con una nueva posición y una nueva velocidad aleatoria.
+
+- Cuando la pelota cae fuera de la pantalla, el estado cambia de "jugando" a "fin".
+
+-**Qué respuestas producen**
+- Se dibujan en pantalla el fondo, la barra, la pelota y el puntaje actualizado.
+
+- Se muestran mensajes de "Atrapa la pelota", "Game Over" o "Clic para reiniciar", según corresponda.
+
+- Se reproducen sonidos al iniciar el juego, al atrapar la pelota y al perder.
+
+- El juego responde visualmente y auditivamente a las acciones del jugador.
+
+- ![texto alternativo imagen](2.png)
+
+-**Recursos Multimedia**
+Los archivos .wav cargados con loadSound() proporcionan retroalimentación auditiva al iniciar el juego, ganar puntos y perder.
+
+- ![texto alternativo imagen](3.png)
