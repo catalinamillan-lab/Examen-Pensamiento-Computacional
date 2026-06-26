@@ -8,5 +8,7 @@ Aquí se encuentra todo el trabajo realizado para el examen final de Pensamiento
 ![texto alternativo imagen](1.png)
 
 -Atrapa la Pelota
+
 -Alumna: Catalina Millán
+
 -Este es un pequeño juego interactivo, donde debes guiar la barra azul inferior a traves del eje X para atrapar la pelota de color blanco y vas sumando puntos.
